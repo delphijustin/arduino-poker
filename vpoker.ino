@@ -30,7 +30,8 @@ int selGame=5;/* defines the default game
 1 - Jacks or better
 2 - double bonus poker
 3 - joker poker
-4 - double double bonus poker
+4 - aces and eights poker
+5 - double double bonus poker
 */
 bool Jackpot,paid,busy,gameStarted;
 PROGMEM const unsigned char CONFIRM_CASH_OUT[]={
