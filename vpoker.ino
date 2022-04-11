@@ -12,7 +12,7 @@
 #include <EEPROM.h>
 #include <TVout.h>
 #include <video_gen.h>
-#define default_credits -10// set to a negative number to enable coin acceptor
+#define default_credits 10// set to a negative number to enable coin acceptor
 const long saved_game_tag=777;//to erase saved game change this number to anything else
 struct SavedGameData{
   long tag;//Used to tell if the game has been saved
