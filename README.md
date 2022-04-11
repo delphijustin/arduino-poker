@@ -10,7 +10,7 @@ A0 Draw and deal button light
 
 Coin acceptor on pin 1
 
-Buttons
+Buttons(all button are wired to ground since they are configured with INPUT_PULLUP Mode)
 pin 8 bet one
 pin 10 deal draw button
 pin 11 bet max button
