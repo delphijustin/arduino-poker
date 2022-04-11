@@ -15,3 +15,10 @@ pin 8 bet one
 pin 10 deal draw button
 pin 11 bet max button
 pin 12 cashout button
+
+It has five different video poker games
+* Jacks or better
+* aces and eights
+* Joker poker
+* double bonus poker
+* double double bonus poker
