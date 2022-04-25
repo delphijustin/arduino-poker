@@ -15,7 +15,7 @@ pin 8 bet one
 pin 10 deal draw button
 pin 11 bet max button
 pin 12 cashout button
-Pins 2-7 Hold/cancel buttons
+Pins 2-6 Hold/cancel buttons
 
 It has five different video poker games
 * Jacks or better
